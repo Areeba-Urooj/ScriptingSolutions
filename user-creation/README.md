@@ -55,11 +55,11 @@ Ubuntu
 ```
 
 ### Example Screenshot:
-![](/archive_project/usr1.PNG)
-![](/archive_project/usr2.PNG)
-![](/archive_project/usr3.PNG)
-![](/archive_project/usr4.PNG)
-![](/archive_project/usr5.PNG)
+![](usr1.PNG)
+![](usr2.PNG)
+![](usr3.PNG)
+![](usr4.PNG)
+![](usr5.PNG)
 
 
 *Screenshot shows the script execution and output display with username, generated password, and hostname.*

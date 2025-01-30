@@ -48,8 +48,8 @@ Run the script:
 ## Output Screenshots
 
 ### Normal Operatin
-<img src="fs_monitor/fs-2.PNG" alt="Screenshot showing the script on my ubuntu VM" />
-<img src="fs_monitor/fs-p1.PNG" alt="Screenshot showing normal operation with disk space in good condition" />
+<img src="fs-2.PNG" alt="Screenshot showing the script on my ubuntu VM" />
+<img src="fs-p1.PNG" alt="Screenshot showing normal operation with disk space in good condition" />
 
 
 ## Automation

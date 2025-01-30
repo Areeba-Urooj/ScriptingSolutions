@@ -43,9 +43,9 @@ You can modify the threshold value by changing the `TH` variable in the script.
 ## Output
 
 The script will display one of two messages:
-<img src="![alt text](ram-p3-1.PNG)" alt="Screenshot showing the script on my ubuntu VM" />
-<img src="![alt text](ram-p2.PNG)" alt="Screenshot showing normal operation with disk space in good condition" />
-<img src="![alt text](ram-p1.PNG)" alt="Screenshot showing normal operation with disk space in good condition" />
+<img src="![](ram-p3.PNG)" alt="Screenshot showing the script on my ubuntu VM" />
+<img src="![](ram-p2.PNG)" alt="Screenshot showing normal operation with disk space in good condition" />
+<img src="![](ram-p1.PNG)" alt="Screenshot showing normal operation with disk space in good condition" />
 
 
 When RAM is below threshold:
